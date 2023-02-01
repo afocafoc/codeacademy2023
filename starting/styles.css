@@ -1,0 +1,150 @@
+/* Universal */
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  /* Color */
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin: 5px auto;
+    min-height: 100px;
+  }
+  
+  .light-slate-purple {
+    background-color: HSL(265, 58%, 77%);
+    color: #fff;
+  }
+  
+  .pink {
+    background-color: HSL(265, 58%, 70%);
+    color: #fff;
+  }
+  
+  .dark-pink {
+    background-color: HSL(265, 58%, 60%);
+    color: #fff;
+  }
+
+  .darker-pink {
+    background-color: HSL(265, 58%, 50%);
+    color: #fff;
+  }
+  
+  .mint-green {
+    background-color: HSL(145, 58%, 77%);
+    color: #fff;
+  }
+  
+  .green {
+    background-color: HSL(145, 58%, 70%);
+    color: #fff;
+  }
+  
+  .dark-green {
+    background-color: HSL(145, 58%, 60%);
+    color: #fff;
+  }
+
+  .darker-green {
+    background-color: HSL(145, 58%, 50%);
+    color: #fff;
+  }
+
+  .light-blue {
+    background-color: HSL(277, 58%, 77%);
+    color: #fff;
+  }
+  
+  .blue {
+    background-color: HSL(277, 58%, 70%);
+    color: #fff;
+  }
+  
+  .dark-blue {
+    background-color: HSL(277, 58%, 60%);
+    color: #fff;
+  }
+
+  .darker-blue {
+    background-color: HSL(277, 58%, 50%);
+    color: #fff;
+  }
+
+  .light-red {
+    background-color: HSL(157, 58%, 77%);
+    color: #fff;
+  }
+  
+  .red {
+    background-color: HSL(157, 58%, 70%);
+    color: #fff;
+  }
+  
+  .dark-red {
+    background-color: HSL(157, 58%, 60%);
+    color: #fff;
+  }
+
+  .darker-red {
+    background-color: HSL(157, 58%, 50%);
+    color: #fff;
+  }
+  
+  /* Font */
+  
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  .quicksand {
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .amatic-sc {
+    font-family: 'Amatic SC', cursive;
+    font-size: larger;
+  }
+
+  .shadow-into-light {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: larger;
+  }
+  
+  .dosis {
+    font-family: 'Dosis', sans-serif;
+    font-size: larger;
+  }
+
+  /* text styles */

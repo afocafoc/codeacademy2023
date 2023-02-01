@@ -1,0 +1,12 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+    font-weight: thin;
+    color: HSL( 179, 75%, 53% );
+}
+
+span {
+    background-color: aquamarine;
+}

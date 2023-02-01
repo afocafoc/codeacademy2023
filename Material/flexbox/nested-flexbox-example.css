@@ -1,0 +1,27 @@
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+     
+.left {
+      display: inline-flex;
+      flex: 2 1 200px;
+      flex-direction: column;
+    }
+     
+.right {
+      display: inline-flex;
+      flex: 1 2 400px;
+      align-items: center;
+    }
+     
+.small {
+      height: 200px;
+      width: auto;
+    }
+     
+.large {
+      height: 600px; 
+      width: auto;
+    }

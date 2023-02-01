@@ -1,0 +1,26 @@
+a {
+    color: #466995;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  a:visited {
+    color: #466995;
+  }
+  
+  .question-link:visited {
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  a:active {
+    color: blue;
+  }
+  
+  .question-link:active {
+    color: blue;
+  }
