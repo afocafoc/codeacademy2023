@@ -1,0 +1,69 @@
+.nav-link:visited {
+    color: #ffffff;
+  }
+
+.nav-link:hover {
+  font-weight: bold;
+  color: HSL(230, 81%, 40%);
+}
+  
+.btn {
+  color: HSL(230, 81%, 40%);
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+  border: 1px HSLA(230, 81%, 20%, 50%) solid;
+  padding: 10px;
+  background-color: HSLA(230, 81%, 40%, 100%);
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+}
+
+.btn:hover {
+  background-color: HSLA(230, 81%, 100%, 80%);
+}
+
+.btn:active {
+  background-color: HSLA(230, 81%, 40%, 80%);
+  color: #ffffff;
+}
+
+  a {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  a:link {
+    color: #61bff9;
+  }
+  
+  a:visited {
+    color: #466995;
+  }
+  
+  a:hover { 
+    text-decoration: none;
+  }
+  
+  a:active, .activity:active {
+    color:#DBE9EE;
+  }
+  
+  .activity {
+    color: HSL(230, 81%, 40%);
+    border: 1px solid #466995;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px;
+  }
+  
+  .activity:hover {
+    background-color: #61bff9;
+    color: #ffffff;
+    box-shadow: 10px;
+  }
+  
+  .activity:active {
+    color: #ffffff;
+  }  
